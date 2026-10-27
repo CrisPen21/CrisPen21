@@ -8,11 +8,7 @@
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://i.gifer.com/1Bym.gif" width="100%" height="20px" style="object-fit: cover; opacity: 0.5;" alt="Cyberpunk separator" />
-</div>
+---
 
 ## 🦾 System_Status // Sobre mí
 
@@ -22,51 +18,15 @@
 - 🕹️ **Modo desarrollador:** Creando proyectos, probando tecnologías y aprendiendo de los bugs
 - 🔌 **Ping:** Puedes establecer conexión conmigo en los enlaces del terminal inferior
 
-<div align="left">
-  <code>>_ Rastreo de intrusos en la red local:</code><br>
-  <img src="https://profile-counter.glitch.me/CrisPen21/bg_0D1117/txt_00F0FF/count.svg" alt="Contador Cyberpunk" />
-</div>
-
-<br>
-
-## 📂 Databank // Sistema de Archivos
-
-<details>
-  <summary>🔓 <b>[Desencriptar_Log: Habilidades_Secundarias.dat]</b></summary>
-  <br>
-  <code>> Estableciendo conexión segura... OK</code><br>
-  <code>> Descargando datos...</code>
-  <ul>
-    <li>🌐 Idiomas: Español (Nativo), Inglés (Técnico)</li>
-    <li>🎨 Interfaz de usuario (UI/UX)</li>
-    <li>🛠️ Metodologías Ágiles (Scrum)</li>
-  </ul>
-</details>
-
-<details>
-  <summary>🛡️ <b>[Acceder_Registro: Misiones_Actuales.exe]</b></summary>
-  <br>
-  <code>> Bypass de seguridad... Éxito</code>
-  <ul>
-    <li>🚀 Sobreviviendo a 2.º de DAM.</li>
-    <li>🧠 Aprendiendo arquitectura de software limpia.</li>
-    <li>☕ Convirtiendo cafeína en código fuente.</li>
-  </ul>
-</details>
-
-<br>
-
-<div align="center">
-  <img src="https://i.gifer.com/1Bym.gif" width="100%" height="20px" style="object-fit: cover; opacity: 0.5;" alt="Cyberpunk separator" />
-</div>
-
 ## 💻 Cyberware // Tecnologías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,mysql,git,github,html,css,js,vscode&perline=10&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,mysql,git,github,html,css,js,vscode&perline=10&theme=dark" />
+
 </div>
 
-<br>
+> ⚡ Actualiza tus implantes: Lista completa de iconos en [skillicons.dev](https://skillicons.dev).
 
 ## 📊 Mainframe_Stats // GitHub
 
@@ -81,18 +41,10 @@
 
 </div>
 
-<br>
-
 ## 🐍 Protocolo_Snake // Contribuciones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/CrisPen21/CrisPen21/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://i.gifer.com/1Bym.gif" width="100%" height="20px" style="object-fit: cover; opacity: 0.5;" alt="Cyberpunk separator" />
 </div>
 
 ## 📡 Comms_Link // Contacto
@@ -100,7 +52,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CrisPen21-0D1117?style=for-the-badge&logo=github&logoColor=FCEE09)](https://github.com/CrisPen21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https:www.linkedin.com/in/cristian-antonio-peña-vargas-78a9043ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/TU_PERFIL)
 [![Email](https://img.shields.io/badge/Email-Contactar-0D1117?style=for-the-badge&logo=gmail&logoColor=FF003C)](mailto:penac5314@gmail.com)
 
 </div>
